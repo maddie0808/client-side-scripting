@@ -19,4 +19,6 @@ Wikipedia contributors. (2024a, July 8). _Internet backbone._ Wikipedia. https:/
 
 Wikipedia contributors. (2024b, September 1). _Hypertext._ Wikipedia. https://en.wikipedia.org/wiki/Hypertext 
 
-Wikipedia contributors. (2024c, September 26). _Modem._ Wikipedia. https://en.wikipedia.org/wiki/Modem Wikipedia contributors. (2024d, September 27). Internet protocol suite. Wikipedia. https://en.wikipedia.org/wiki/Internet_protocol_suite
+Wikipedia contributors. (2024c, September 26). _Modem._ Wikipedia. https://en.wikipedia.org/wiki/Modem 
+
+Wikipedia contributors. (2024d, September 27). _Internet protocol suite._ Wikipedia. https://en.wikipedia.org/wiki/Internet_protocol_suite
