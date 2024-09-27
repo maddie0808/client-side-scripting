@@ -5,13 +5,11 @@ Client vs server. Unveiling the distinction. (n.d.). Retrieved September 27, 202
 
 How does a workstation differ from desktop computers? (2023, May 28). https://www.lenovo.com/ca/en/glossary/workstation-vs-desktop-business/ 
 
-How to use switches in network diagram. (n.d.). https://www.conceptdraw.com. Retrieved September 27, 2024, from https://www.conceptdraw.com/examples/modem-router-firewall-switch-scheme 
+How to use switches in network diagram. (n.d.). Concept Draw. Retrieved September 27, 2024, from https://www.conceptdraw.com/examples/modem-router-firewall-switch-scheme
 
-Internet backbone: Definition and connections. (2024, March 4). 
+Internet backbone: Definition and connections. (2024, March 4). Myrasecurity.com. https://www.myrasecurity.com/en/knowledge-hub/backbone/ 
 
-Myrasecurity.com. https://www.myrasecurity.com/en/knowledge-hub/backbone/ Team, K. (2023, September 12). 
-
-HTTP vs HTTPS: What’s the Difference? Keyfactor. https://www.keyfactor.com/blog/http-vs-https-whats-the-difference/ 
+Team, K. (2023, September 12). HTTP vs HTTPS: What’s the Difference? Keyfactor. https://www.keyfactor.com/blog/http-vs-https-whats-the-difference/ 
 
 What is a switch vs a router? (2022, January 19). Cisco. https://www.cisco.com/c/en_ca/solutions/small-business/resource-center/networking/network-switch-vs-router.html#~introduction 
 
